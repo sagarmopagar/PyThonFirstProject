@@ -34,8 +34,6 @@ for row in range (1,50):
         name_l.append(ws[char+str(row)].value)
     names.append(name_l)
 
-print(names)
-
 
 
 
